@@ -1,4 +1,4 @@
-package com.example.notes.Activities;
+package com.example.notes_project_master_android;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -8,16 +8,11 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.notes.R;
-import com.example.notes.adapters.AllNotebooksAdapter;
-import com.example.notes.adapters.AllNotesAdapter;
-import com.example.notes.classes.Note;
 import java.util.ArrayList;
 
 public class NotesShowAll extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.example.notes.Activities;
+package com.example.notes_project_master_android;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.notes.R;
+
 import com.google.firebase.database.FirebaseDatabase;
 
 public class NoteTutorial1 extends AppCompatActivity {

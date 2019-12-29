@@ -1,4 +1,4 @@
-package com.example.notes.Activities;
+package com.example.notes_project_master_android;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -10,13 +10,6 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.Toast;
-
-import com.example.notes.R;
-import com.example.notes.adapters.AllNotebooksAdapter;
-import com.example.notes.classes.Note;
-import com.example.notes.classes.NoteBook;
-
 import java.util.ArrayList;
 
 public class NoteBooksShowAll extends AppCompatActivity {

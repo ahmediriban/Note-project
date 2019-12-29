@@ -1,4 +1,4 @@
-package com.example.notes.Activities;
+package com.example.notes_project_master_android;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.notes.R;
+
 
 public class NoteTutorial2 extends AppCompatActivity {
 

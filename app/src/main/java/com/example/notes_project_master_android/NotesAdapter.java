@@ -1,4 +1,5 @@
-package com.example.notes.adapters;
+package com.example.notes_project_master_android;
+
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -6,9 +7,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
-
-import com.example.notes.R;
-import com.example.notes.classes.Note;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.example.notes.classes;
+package com.example.notes_project_master_android;
 
 public class CategoryStyle {
     private int id;

@@ -1,8 +1,7 @@
-package com.example.notes.classes;
+package com.example.notes_project_master_android;
 
-import android.graphics.drawable.Icon;
 
-import com.example.notes.Activities.HomeActivity;
+
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.IgnoreExtraProperties;
 
