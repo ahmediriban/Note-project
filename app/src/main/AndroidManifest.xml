@@ -32,9 +32,11 @@
             android:launchMode="singleTask" />
         <activity
             android:name=".NotesShowAll"
-            android:launchMode="singleTask" /> <!-- <activity android:name=".EditNoteActivity" /> -->
+            android:launchMode="singleTask" />
+        <activity android:name=".EditNoteActivity" />
         <activity android:name=".HomeActivity"></activity>
-        <activity android:name=".NoteTutorial2" /> <!-- <activity android:name=".AddNewCategoryActivity" /> -->
+        <activity android:name=".NoteTutorial2" />
+        <activity android:name=".AddNewCategoryActivity" />
         <activity android:name=".GoToEmail" />
         <activity
             android:name=".NoteTutorial1"
